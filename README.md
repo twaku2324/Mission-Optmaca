@@ -43,7 +43,6 @@ Custom Jumbotron: HTML Code
       </div>
     </div>
 
-Second html Link: https://www.youtube.com/watch?v=ejGx2ac08lg
 CSS style: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F570057265340543286%2F&psig=AOvVaw2n0ED6RWWnWMZ8rSuYoVQR&ust=1702913166841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCKD254nkloMDFQAAAAAdAAAAABAD
 Glyphicons: https://www.w3schools.com/css/css_icons.asp#:~:text=The%20simplest%20way%20to%20add,color%2C%20shadow%2C%20etc.)
 
