@@ -1,0 +1,11 @@
+Challenge 3 Screenshot of work process:
+
+For this branch, I've added a code on VS  that should deploy to the web browser.
+
+I've also embedded the images from the images folder for convenience so that I could list the right images in the actual code when inserted into the tags.
+
+I have two html files, one leading to another page from the original and one CSS stylesheet.
+
+Web users are to press the "Sign Up" button with a hovering icon to be transported to the next page. The "Contact Us" button does the same command.
+
+The styles, font and images are different on each page to reflect a variety of style and skill for this challenge.
