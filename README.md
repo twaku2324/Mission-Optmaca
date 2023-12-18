@@ -16,8 +16,7 @@ Note: include screenshots of your work to:
 -show how you have created solutions
 -improve upon feedback given in other challenges
 
-PDF: file:///C:/Users/user/Downloads/Challenge%203.pdf
-Commits: Can be viewed on VS studio code (31)
+Commits: Can be viewed on VS studio code (33)
 
 
 Bootstrap content delivery network(CDN):
